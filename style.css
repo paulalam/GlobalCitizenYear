@@ -1,0 +1,18 @@
+body {
+    font-family: "Helvetica";
+    background-image: url("images/airplane.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50% 0;
+    font-weight: 300;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat";
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
